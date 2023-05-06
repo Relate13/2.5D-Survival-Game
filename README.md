@@ -1,12 +1,12 @@
 # 2.5D-Survival-Game
 使用 C# 基于 Unity 引擎开发的 2.5D 随机地图开放世界生存游戏，具有世界生成系统，物品系统，植物生长与种植系统，简易的生物与生物生成系统，建筑系统，NPC 系统，任务系统，交易与购买系统；涉及区块加载，柏林噪声无缝生成，地图存档保存与读取等技术；从策划，美术到程序均为个人独立设计开发并完成。
 
-![](pictures\1.png)
+![](pictures/1.png)
 
-![](pictures\2.png)
+![](pictures/2.png)
 
-![](pictures\3.png)
+![](pictures/3.png)
 
-![](pictures\4.png)
+![](pictures/4.png)
 
-![](pictures\5.png)
+![](pictures/5.png)
